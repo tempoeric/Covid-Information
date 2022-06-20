@@ -1,1 +1,13 @@
-{}
+{
+  "Form": {
+    "CovidConfirmed": {
+      "Title": "Covid Confirmed Cases"
+    },
+    "CovidDeath": {
+      "Title": "Covid Death Cases"
+    },
+    "CovidRecovery": {
+      "Title": "Covid Recovery Cases"
+    }
+  }
+}

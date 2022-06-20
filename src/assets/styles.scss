@@ -1,0 +1,12 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.body-content {
+  height: calc(100vh - 96px);
+  overflow: auto;
+  margin-top: 2rem;
+}
